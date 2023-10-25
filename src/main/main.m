@@ -1,5 +1,5 @@
 clc,clear;
-CROSS=imread('corss3.jpg');           %original pics in left folder
+CROSS=imread('cross3.jpg');           %original pics in left folder
 graycross=rgb2gray(CROSS);
 Aftergray=MY_Gaussian(graycross);     %inclue my gaussian filter
 [row,col]=size(Aftergray);
