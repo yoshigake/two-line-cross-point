@@ -1,5 +1,5 @@
 function DRAW_CROSS_Point(theta,rho,originalpic)
-%%  This function is specific for two-lines picture that have one cross point,Wroten by Tianyan
+%%  This function is specific for two-lines picture that have one cross point,Written by Tianyan
 %   theta:picture after hough transform that get two theta values
 %   rho:picture after hough transform that get two rho values
 %   originalpic:the original two-lines picture that have one cross point

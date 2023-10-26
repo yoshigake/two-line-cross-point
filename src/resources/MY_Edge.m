@@ -1,5 +1,5 @@
 function cannymat=MY_Edge(graypic)
-%%  This function is wroten by Tianyan
+%%  This function is written by Tianyan
 %    M:the input image,befor usong this function,you can use  gaussian filter to
 %    reduce the influence of the noise
 %    cannymat:return the processed matrix,after the max edge and two-threshold processing

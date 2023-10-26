@@ -1,5 +1,5 @@
 function gasussianmat=MY_Gaussian(originalpic)
-%%  this function generate a 3x3 gaussian filter,wroten by Tianyan
+%%  this function generate a 3x3 gaussian filter,written by Tianyan
 originalpic=padarray(originalpic,[1,1]);
 originalpic=double(originalpic);
 G=zeros(3);%the gaussian core

@@ -1,4 +1,4 @@
-%all functions wroten by myself
+%all functions are written by myself
 clc,clear;
 CROSS=imread('cross3.jpg');           %original pictures in left folder
 graycross=rgb2gray(CROSS);

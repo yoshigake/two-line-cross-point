@@ -1,5 +1,5 @@
 function [H,THETA,RHO]=MY_Hough(edgepic,threshold,linecount)
-%% this function is wroten by Tianyan
+%% this function is written by Tianyan
 %  take the function hough in matlab as reference
 %  the three outputs are symbol as follws:
 %     H:the hough space matrix,row is the rho while col is the theta;
