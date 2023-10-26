@@ -1,3 +1,4 @@
+%all functions wroten by myself
 clc,clear;
 CROSS=imread('cross3.jpg');           %original pics in left folder
 graycross=rgb2gray(CROSS);
